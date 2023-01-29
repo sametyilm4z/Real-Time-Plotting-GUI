@@ -23,7 +23,9 @@ EMG signals come to the circuit through electrodes and lead. In this application
 •	Capacitors and Resistors
 
 ## Schematic Design
-![image](https://user-images.githubusercontent.com/88987741/152829103-f84fbf6e-252a-45f8-94e8-7c93ac5e846f.png)
+![image](https://user-images.githubusercontent.com/88987741/152829103-f84fbf6e-252a-45f8-94e8-7c93ac5e846f.png)	
+
+https://drive.google.com/file/d/1sjI660OMw8r8Sb-4RKJV3A0u7GxZsZFG/view?usp=share_link
 
 ## EMG Case Designs
 ![image](https://user-images.githubusercontent.com/88987741/152828067-c3dff626-5b80-4ed6-8d04-fea4c16387af.png)
