@@ -1,5 +1,6 @@
 # EMG Signal Acquisition and Data Processing Circuit and Software Development
 
+In the video below, the project were explained with the graphical user interface:
 https://drive.google.com/file/d/1sn2qjPbusILr3SXtab3fYARXEkmsS2DC/view?usp=share_link
 
 ## Description
