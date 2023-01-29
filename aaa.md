@@ -61,7 +61,7 @@ The software has been developed by using MATLAB's App Designer. The software has
 
 •	RMS graph
 
-https://www.youtube.com/watch?v=EF6fqnnl3Uk
+https://drive.google.com/file/d/1shaHlnG9uKgl1XPrgQgtjhSRIzJe9sUM/view?usp=share_link
 
 ## Disclaimer !!!
 Neither the circuit nor the software described above can be used in medical diagnosis or the treatment of any conditions. Otherwise, we cannot be held responsible for any harm or damages.
